@@ -1,0 +1,9 @@
+psycopg2
+passlib
+pymongo
+cassandra-driver
+How to install cassandra :
+http://cassandra.apache.org/doc/latest/getting_started/installing.html
+
+How to install mongoDB:
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu
